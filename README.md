@@ -1,5 +1,7 @@
 # Retail-Sales-Analysis-SQL-Server
 
+![Retail Sales Analysis LinkedIn Cover Post](https://github.com/user-attachments/assets/1bd427b9-20b1-4ef6-b859-e77525c4f397)
+
 # Background
 
 Novus Retail Pvt. Ltd., a mid-sized multi-category retail company (fictional), has provided its complete 2022 transaction-level sales dataset for analysis. The dataset includes fields such as Transaction_Id, Sale_Date, Sale_Time, Customer_Id, Gender, Age, Category, Quantity, Price_Per_Unit, Cogs, and Total_Sale. However, the raw dataset may contain duplicates, null values, inconsistent data types, and formatting issues that must be addressed before any meaningful analysis can be performed. 
