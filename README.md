@@ -28,44 +28,6 @@ Database Creation: The project starts by creating a database named SQL_Project_1
 
 Table Creation: A table named Tb_Retail_Sales_Data is created to store the sales data.
 
-'''sql
-CREATE DATABASE SQL_Project_1_Retail_Sales_Analysis;
-
-USE SQL_Project_1_Retail_Sales_Analysis;
-
--- Creating the tables
-CREATE TABLE Tb_Retail_Sales_Data (
-	Transaction_Id INT PRIMARY KEY,
-	Sale_Date DATE,
-	Sale_Time TIME,
-	Customer_Id INT,
-	Gender VARCHAR(15),
-	Age INT,
-	Category VARCHAR(30),
-	Quantity INT,
-	Price_Per_Unit FLOAT,
-	Cogs FLOAT,
-	Total_Sale FLOAT
-)
-'''
+<img width="587" height="367" alt="image" src="https://github.com/user-attachments/assets/7036a421-e255-4799-83df-1b6080146d1d" />
 
 ### Data Cleaning & Exploration
-
-'''sql
-CREATE DATABASE p1_retail_db;
-
-CREATE TABLE retail_sales
-(
-    transactions_id INT PRIMARY KEY,
-    sale_date DATE,	
-    sale_time TIME,
-    customer_id INT,	
-    gender VARCHAR(10),
-    age INT,
-    category VARCHAR(35),
-    quantity INT,
-    price_per_unit FLOAT,	
-    cogs FLOAT,
-    total_sale FLOAT
-);
-'''
