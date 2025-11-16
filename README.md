@@ -31,3 +31,10 @@ Table Creation: A table named Tb_Retail_Sales_Data is created to store the sales
 <img width="587" height="367" alt="image" src="https://github.com/user-attachments/assets/7036a421-e255-4799-83df-1b6080146d1d" />
 
 ### Data Cleaning & Exploration
+
+A Column name irregularity had been found and was dealt with.
+
+<img width="1081" height="474" alt="image" src="https://github.com/user-attachments/assets/315a1f71-3ae5-46b8-91c4-d3035f9784cd" />
+
+NULL Values had been found and were dealt with.
+
