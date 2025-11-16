@@ -51,6 +51,7 @@ CREATE TABLE Tb_Retail_Sales_Data (
 
 ### Data Cleaning & Exploration
 
+'''sql
 CREATE DATABASE p1_retail_db;
 
 CREATE TABLE retail_sales
@@ -67,3 +68,4 @@ CREATE TABLE retail_sales
     cogs FLOAT,
     total_sale FLOAT
 );
+'''
