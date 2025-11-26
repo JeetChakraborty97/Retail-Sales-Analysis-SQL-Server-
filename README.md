@@ -1,4 +1,4 @@
-# Retail-Sales-Analysis-SQL-Server
+# Retail Sales Analysis (SQL Server)
 
 ![Retail Sales Analysis LinkedIn Cover Post](https://github.com/user-attachments/assets/1bd427b9-20b1-4ef6-b859-e77525c4f397)
 
